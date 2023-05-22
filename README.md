@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeenbandhuPatel
 - 👀 I’m interested in .Net Development related work
 - 🌱 I’m currently learning .Net Blazor framework
-- 💞️ I’m looking to collaborate on any Web based project based on .Net MVC/APi
+- 💞️ I’m looking to collaborate on any Web based project based on .Net Core with Angular/React
 - 📫 I can be approached through email :deenbandhupatel0@gmail.com and Mob :+91 7065088738
 
 <!---
